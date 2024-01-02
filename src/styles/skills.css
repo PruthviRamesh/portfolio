@@ -1,0 +1,151 @@
+.skills{
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 83%;
+    margin-bottom: 20px;
+}
+.skills p{
+    color:darkturquoise;
+    font-size: 40px;
+    font-weight: 700;
+}
+.sql h2{
+    color: white;
+    font-size: 28px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.sql li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.sql span{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.java h2{
+    color: white;
+    font-size: 28px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.java li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.java span{
+    color: white;
+    background-color: #3b3b3b;
+    font-size: 24px;
+}
+.html h2{
+    color: white;
+    font-size: 28px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.css h2{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.javascript h2{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.html span{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.css span{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.javascript span{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.html li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.css li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.javascript li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.react h2{
+    color: white;
+    font-size: 28px;
+    background-color: #3b3b3b;
+    margin-bottom: 8px;
+}
+.react li{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.react span{
+    color: white;
+    font-size: 24px;
+    background-color: #3b3b3b;
+}
+.sql{
+    margin-top: 30px;
+    width: 45%;
+    background-color: #3b3b3b;
+    padding: 20px 30px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.java{
+    width: 45%;
+    padding: 20px 30px;
+    background-color: #3b3b3b;
+    margin-top: 25px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.react{
+    width: 45%;
+    padding: 20px 30px;
+    margin-top: 25px;
+    background-color: #3b3b3b;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.web{
+    width: 40%;
+    padding: 20px 30px;
+    background-color: #3b3b3b;
+    border-radius: 10px;
+    position: absolute;
+    top: 204px;
+    right: 140px;
+}
+.css{
+    margin-top: 20px;
+    background-color: #3b3b3b;
+}
+.javascript{
+    margin-top: 20px;
+    background-color: #3b3b3b;
+}
+.html{
+    background-color: #3b3b3b;
+}

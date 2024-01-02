@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* font-family: 'Bree Serif', serif;
+    font-family: 'Pacifico', cursive; */
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    background-color: black;
+}
+.navbar{
+    background-color:black;
+    width: 100vw;
+    height: auto;
+    padding: 30px;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+}
+.links{
+    position: absolute;
+    top: 40px;
+    right: 150px;
+}
+.navbar h1{
+    font-size: 40px;
+    margin-left: 100px;
+    color: palevioletred;
+}
+.links a{
+    text-decoration: none;
+    margin-left: 35px;
+    color: white;
+    font-size: 24px;
+    transition: 0.5s font-size;
+}
+.links a:hover{
+    text-decoration: underline;
+    font-size: 26px;
+    color: rgb(211, 146, 167);
+}
+.intro p{
+    font-size: 44px;
+    color: white;
+}
+.intro{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+.view{
+    background-color:palevioletred;
+    text-decoration: none;
+    font-size: 24px;
+    border-radius: 4px;
+    color: white;
+    padding: 6px 10px;
+}
+.view:hover{
+    background-color: rgb(213, 138, 163);
+}
+.profileimg{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    right: 250px;
+}
